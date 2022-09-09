@@ -1,10 +1,8 @@
 # Git_Extentions
 
-settings.json in folder "User"
- %APPDATA%\Code\User
+settings.json in folder "User" (%APPDATA%\Code\User)
 
-folders whith extention located in folder ".vscode"
- %HOMEPATH%
+folders whith extention located in folder ".vscode" (%HOMEPATH%)
  
  ```
  %APPDATA%   ===  C:\Users\{UserName}\AppData\Roaming  // true
