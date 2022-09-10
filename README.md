@@ -18,7 +18,7 @@ folders with extension located in folder ".vscode" (%HOMEPATH%)
  * CSS Navigation
  * SCSS IntelliSense
  * Image preview 
- Markdown Preview Enhanced (Crl+Shift+V)
+ * Markdown Preview Enhanced (Crl+Shift+V)
  * vscode-icons
  * Code Spell Checker
  * Code Runner
@@ -33,4 +33,3 @@ folders with extension located in folder ".vscode" (%HOMEPATH%)
  * Reactjs code snippets
  * JavaScript (ES6) code snippets
  * Import Cost
- 
