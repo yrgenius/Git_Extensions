@@ -1,3 +1,18 @@
 {
-    "workbench.colorTheme": "Default Dark+"
+    "workbench.iconTheme": "vscode-icons",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "<another formatter>"
+    },
+    "editor.formatOnSave": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "window.zoomLevel": 1,
+    "debug.allowBreakpointsEverywhere": true,
+    "debug.javascript.automaticallyTunnelRemoteServer": false,
+    "editor.wordWrap": "on",
+    "cSpell.language": "en,ru",
+    "explorer.confirmDelete": false,
+    "files.autoSave": "onFocusChange",
+    "explorer.confirmDragAndDrop": false,
 }
